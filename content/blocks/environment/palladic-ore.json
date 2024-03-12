@@ -1,0 +1,6 @@
+{
+  "name": "Palladium Ore",
+  "type": "OreBlock",
+  "itemDrop": "palladium",
+  "variants": 2,
+}
