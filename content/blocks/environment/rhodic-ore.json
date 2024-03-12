@@ -1,6 +1,6 @@
 {
   "name": "Rhodium Ore",
   "type": "OreBlock",
-  "itemDrop": "rhodium",
+  "itemDrop": "bb-rhodium",
   "variants": 2,
 }
