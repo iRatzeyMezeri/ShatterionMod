@@ -1,6 +1,6 @@
 {
   "name": "Palladium Ore",
   "type": "OreBlock",
-  "itemDrop": "palladium",
+  "itemDrop": "ba-palladium",
   "variants": 2,
 }
